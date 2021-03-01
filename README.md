@@ -11,7 +11,7 @@
     <img src="assets/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">vimscripts</h3>
+  <h3 align="center">V-Skript</h3>
 
   <p align="center">
   A lot of Vim scripts to introduce to you through the Vim basic scripting.
