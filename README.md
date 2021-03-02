@@ -85,9 +85,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Vim Documentation](https://www.vim.org/docs.php)
+* [Vim Scripting Book ](https://learnvimscriptthehardway.stevelosh.com/)
+
 
 
 
