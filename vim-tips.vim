@@ -8,3 +8,13 @@ nnoremap <leader>ev :split $MYVIMRC<cr>
 "that set 'noundofile' in your vimrc as
 
 set noundofile
+
+" To surroung works in with double quotes using Vim mappings just type:
+nnoremap <leader>" view<esc>a"<esc>hbi"<esc>lel
+
+" To exit INSERT mode in VIm by default:
+<esc>
+<c-c>
+<c-[>
+
+
