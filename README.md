@@ -47,7 +47,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 These scripts represent the most fundamentals part of Vim scripting. You can find practical examples to develop your usability using Vim editor at the same time that learns code! Sometimes, in the initials stages when we are learning Vim, we find it difficult to grasp the concepts regardless of the time expending in through it.  Why? because Vim editor was created to be used just with keyboard inputs,  so if someone is accustomed to using another most modern editor, it will be more difficult.  In this project, I tried to create get fast compression about Vim and Vim scripting. 
 
