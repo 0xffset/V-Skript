@@ -71,8 +71,20 @@ nnoremap \ x
 "Vim ignore the x mapping, Insteared of deleting the current line, it deletes the current character
 
 
+"Buffer-Local Options and Mappings
+" We used <leader>x to do a buffer-local mappings. Mappings that only applies
+" to specific buffers you should use <localleader> instead of <leader>
 
+nnoremap 	   <leader>d dd
+nnoremap <buffer>  <leader>x dd
 
+" Shadowing
+nnoremap <buffer> Q x
+nnoremap 	  Q dd
+
+" If you press Q, Vim will run the first mapping, not the second, because the
+" first mapping is more specific.
+"
 
 
 

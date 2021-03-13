@@ -13,3 +13,9 @@ set iskeyword?
 iabbrev @@ email@gmail.com
 iabbrev ccopy Copyright 2013 Email, all rights reserved
 
+" Buffer-Local Abbreviations
+
+iabbrev <buffer> --- &mdash;
+
+
+
