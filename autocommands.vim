@@ -19,3 +19,10 @@ autocmd FileType python nnoremap <buffer> <localleader>c I#<esc>
 "
 autocmd FileType python :iabbrev <buffer> iff if:<left>
 autocmd FileType javascript :iabbrev <buffer> iff if()<left>
+
+" Groups 
+autocmd BufWrite * :echom "Writing buffer!"
+
+
+
+

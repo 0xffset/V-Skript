@@ -84,9 +84,15 @@ nnoremap 	  Q dd
 
 " If you press Q, Vim will run the first mapping, not the second, because the
 " first mapping is more specific.
+
+" Movement Mappings
+
+onoremap p i(
+" onoremap command tells Vim that when it's waiting for a movement to give to
+" an operator and it sees p. 
 "
 
-
-
+" To changing the start, you need write as
+onoremap in( :<c-u>normal! f(vi(<cr>
 
 
