@@ -40,3 +40,19 @@ function Strings()
 
 endfunction
 
+function Loopings()
+       let c= 0
+	for i in [1,2,3,4,5]
+	 	let c+=i
+	endfor
+	echom c	
+
+	let c = 1
+	let total = 0'
+
+	while c <= 4 
+		let total += c
+		let c += 1
+	endwhile
+	echom total
+endfunction

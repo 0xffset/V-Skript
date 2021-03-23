@@ -95,4 +95,4 @@ onoremap p i(
 " To changing the start, you need write as
 onoremap in( :<c-u>normal! f(vi(<cr>
 
-
+nnoremap <leader>g :grep -R text .<cr>
